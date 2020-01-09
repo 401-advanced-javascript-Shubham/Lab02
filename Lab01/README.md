@@ -1,12 +1,12 @@
-# LAB - 02
+# LAB - 01
 
-## Classes Inheritance
+## Node Ecosystem
 
 ### Author: Shubham Majumdar
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-Shubham/Lab02/pull/1)
-* [Github Actions](https://github.com/401-advanced-javascript-Shubham/Lab02/actions)
+* [submission PR](https://github.com/401-advanced-javascript-Shubham/Lab01/pull/1)
+* [Github Actions](https://github.com/401-advanced-javascript-Shubham/Lab01/actions)
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
